@@ -9,7 +9,7 @@
 [submodule "Boost-for-Android"]
 	path = Boost-for-Android
 	url = https://github.com/robke1234/Boost-for-Android.git
-	branch = wx-tweaks
+	branch = master
 [submodule "gl4es-114-extra"]
 	path = gl4es-114-extra
 	url = https://github.com/dsa-t/gl4es-114-extra.git
